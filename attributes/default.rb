@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: sublime_text
+# Cookbook Name:: nodejs
 # Attributes:: default
 #
 # Copyright (C) 2016 Jason Blalock
